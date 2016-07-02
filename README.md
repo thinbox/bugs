@@ -6,7 +6,7 @@ This is the public issue tracker for [Thinbox](https://thinbox.io).
 
 In case you're not registered on GitHub, you can always send bug reports by email.
 
-**[Send bug report by email](mailto:support@thinbox.io?subject=Bug+report)**
+**[Send bug report by email](mailto:support@thinbox.io?subject=Bug%20report)**
 
 ---
 Found a security related issue? Please send your report to
